@@ -1,0 +1,4 @@
+End-Point : au-cdbr-sl-syd-01.cleardb.net
+Username :	b9539a6f8ca59d
+Password :	85dadd73
+DB Name : ibmx_cb0b9ab23f329f2
